@@ -1,0 +1,1 @@
+# bootstrap.viacoin.org
